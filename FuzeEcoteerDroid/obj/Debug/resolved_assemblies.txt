@@ -1,0 +1,13 @@
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\FuzeEcoteerDroid.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\Mono.Android.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\mscorlib.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\System.Core.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\System.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\System.Xml.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\System.Xml.Linq.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\Xamarin.Android.Support.Vector.Drawable.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+G:\C#\FuzeEcoteerDroid\FuzeEcoteerDroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll
